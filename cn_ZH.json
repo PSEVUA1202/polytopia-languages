@@ -795,7 +795,7 @@
   "onlineview.game.resign.title": "辞职",
   "onlineview.game.resign.info": "你确定要永久退出这个游戏吗？",
   "onlineview.game.old.title": "旧文件版本",
-  "onlineview.game.old.info": "这个游戏是用过时的游戏版本创建的。很遗憾无法加载:(我的建议是你删除它并重新开始。抱歉给您带来不便。" ,
+  "onlineview.game.old.info": "这个游戏是用过时的游戏版本创建的。很遗憾无法加载:(我的建议是你删除它并重新开始。抱歉给您带来不便。",
   "onlineview.game.player.left": "{0} 已离开游戏 {1} 并已被机器人取代。",
   "onlineview.game.player.kicked": "您已从游戏 {0} 中删除",
   "onlineview.game.player.invited": "你被邀请参加一个新游戏,{0}",
