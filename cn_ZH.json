@@ -1,5 +1,5 @@
 {
-  “中文语言”,
+  "中文语言",
   "startmenu.new_game": "新游戏",
   "startmenu.multiplayer": "多人游戏",
   "startmenu.resume_game": "恢复游戏",
@@ -25,7 +25,7 @@
   "tribepicker.reset": "重置购买",
   "tribepicker.tba": "待定",
   "tribepicker.underconstruction": "建设中",
-  "tribepicker.underconstruction.description": "我们仍在努力创造这个部落。种植果实,开发语言和建筑。这需要时间你知道。在 Instagram 或 Twitter 上关注@Midjiwan,你将是第一个知道什么时候有新部落的人到达！”,
+  "tribepicker.underconstruction.description": "我们仍在努力创造这个部落。种植果实,开发语言和建筑。这需要时间你知道。在Instagram或Twitter上关注@Midjiwan,你将是第一个知道什么时候有新部落的人到达！",
   "tribepicker.freetribe": "自由部落",
   "tribepicker.freetribe.description": "这个部落是免费的,不能购买来启用在线多人游戏。",
   "tribepicker.taken": "被带走了",
@@ -177,7 +177,7 @@
   "tribes.hoodrick": "Hoodrick",
   "tribes.hoodrick.info": "{0} 树林的黄色秋叶是其奇特的蘑菇馅居民的完美藏身之处。\n\n{0} 以'{1}' 技术开始游戏。",
   "tribes.luxidoor": "Luxidoor",
-  "tribes.luxidoor.info": "{0} 喜欢昂贵的东西、珠宝、稀有香料和独特的装饰品。这也是为什么他们是 Polytopia 中最昂贵的部落的原因！\n\n他们的公民过着非常舒适的生活,披着外衣最好的紫色丝绸。但他们能在他们心爱的首都的城墙外生存吗？\n\n{0} 以一个巨大的城墙开始游戏。",
+  "tribes.luxidoor.info": "{0} 喜欢昂贵的东西、珠宝、稀有香料和独特的装饰品。这也是为什么他们是 Polytopia 中最昂贵的部落的原因!\n\n他们的公民过着非常舒适的生活,披着外衣最好的紫色丝绸。但他们能在他们心爱的首都的城墙外生存吗？\n\n{0} 以一个巨大的城墙开始游戏。",
   "tribes.vengir": "Vengir",
   "tribes.vengir.info": "遭到其他部落的不满并被推入令人不快的荒地。他们会容忍这种不公正行为还是起来反击？\n\n{0}以“{1}”开始游戏技术和强大的剑客。",
   "tribes.zebasi": "泽巴斯",
@@ -194,7 +194,7 @@
   "tribes.yadakk": "Yădakk",
   "tribes.yadakk.info": "{0} 最初是在美丽、崎岖的 Khalee 平原上的游牧部落。现在他们是广场上的商人,将他们的帝国与令人印象深刻的贸易路线连接起来。\n\n{0}使用“{1}”技术开始游戏。",
   "tribes.polaris": "北极星",
-  "tribes.polaris.info": "{0} 被困在冰冻苔原的遥远地区已有亿万年了,但被不可知的 Gaami 赐福,他们有能力将他们不自然的冰冷地形扩展到比天气允许的更远的地方。\ n\n凭借雪橇和 Mamoos 的力量，神秘的 {0} 决心将广场埋葬在冰中，并将这片土地变成寒冷的天堂。\n\n{0} 开始游戏时能够使用以下技能冻结周围的地形月亮。”,
+  "tribes.polaris.info": "{0} 被困在冰冻苔原的遥远地区已有亿万年了,但被不可知的 Gaami 赐福,他们有能力将他们不自然的冰冷地形扩展到比天气允许的更远的地方。\n\n凭借雪橇和 Mamoos 的力量，神秘的 {0} 决心将广场埋葬在冰中，并将这片土地变成寒冷的天堂。\n\n{0} 开始游戏时能够使用以下技能冻结周围的地形月亮。”,
 
   "building.capital.owner": "{0} 是 {1} 的首都",
   "building.capital.owner.former": "{0} 是 {1} 帝国的前首都,目前被 {2} 军队占领",
