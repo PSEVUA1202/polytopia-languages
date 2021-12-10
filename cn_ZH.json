@@ -1,5 +1,5 @@
 {
-  "中文语言",
+  "language": "Chinese",
   "startmenu.new_game": "新游戏",
   "startmenu.multiplayer": "多人游戏",
   "startmenu.resume_game": "恢复游戏",
